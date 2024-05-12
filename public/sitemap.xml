@@ -10,6 +10,9 @@
   </url><url>
     <loc>http://example.org/products/</loc>
   </url><url>
+    <loc>http://example.org/contact/</loc>
+    <lastmod>2024-05-12T11:19:06-04:00</lastmod>
+  </url><url>
     <loc>http://example.org/products/bike/</loc>
   </url><url>
     <loc>http://example.org/products/car/</loc>
