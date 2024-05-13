@@ -2,30 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://example.org/</loc>
     <lastmod>2021-09-12T18:20:26+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>http://example.org/about/</loc>
     <lastmod>2021-09-12T18:24:17+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/products/</loc>
+    <loc>http://example.org/products/</loc>
   </url><url>
-    <loc>http://localhost:1313/services/</loc>
+    <loc>http://example.org/services/</loc>
     <lastmod>2024-05-12T11:23:39-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>http://example.org/contact/</loc>
     <lastmod>2024-05-12T11:19:06-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/products/bike/</loc>
+    <loc>http://example.org/products/bike/</loc>
   </url><url>
-    <loc>http://localhost:1313/products/car/</loc>
+    <loc>http://example.org/products/car/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://example.org/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/products/scooter/</loc>
+    <loc>http://example.org/products/scooter/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://example.org/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/products/truck/</loc>
+    <loc>http://example.org/products/truck/</loc>
   </url>
 </urlset>
