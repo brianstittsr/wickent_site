@@ -5,14 +5,5 @@ draft: false
 menu: main
 weight: 10
 ---
-Sample Content
 
-**Bold Heading**
-
-- List 1
-
-- List 2
-
-- List 3
-
-[About Page]({{< ref "about/" >}} "About us link")
+   {{ partial "hero" . }}

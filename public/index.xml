@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Hugo Semantic</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:50679/</link>
     <description>Recent content in Home on Hugo Semantic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
     <lastBuildDate>Sun, 12 May 2024 11:23:39 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:50679/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://localhost:50679/about/</link>
       <pubDate>Sun, 12 Sep 2021 18:24:17 +1000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>http://localhost:50679/about/</guid>
       <description>Sample Text.&#xA;Bold text&#xA;Italic&#xA;Home page</description>
     </item>
     <item>
       <title>Services</title>
-      <link>http://localhost:1313/services/</link>
+      <link>http://localhost:50679/services/</link>
       <pubDate>Sun, 12 May 2024 11:23:39 -0400</pubDate>
-      <guid>http://localhost:1313/services/</guid>
-      <description></description>
+      <guid>http://localhost:50679/services/</guid>
+      <description>this is a test case. </description>
     </item>
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>http://localhost:50679/contact/</link>
       <pubDate>Sun, 12 May 2024 11:19:06 -0400</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
-      <description></description>
+      <guid>http://localhost:50679/contact/</guid>
+      <description>&amp;lt;section class=&amp;quot;Material-contact-section section-padding section-dark&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;container&amp;quot;&amp;gt; &amp;lt;div class=&amp;quot;row&amp;quot;&amp;gt; &amp;lt;!-- Section Titile --&amp;gt; &amp;lt;div class=&amp;quot;col-md-12 wow animated fadeInLeft&amp;quot; data-wow-delay=&amp;quot;.2s&amp;quot;&amp;gt; &amp;lt;h1 class=&amp;quot;section-title&amp;quot;&amp;gt;Love to Hear From You&amp;lt;/h1&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;row&amp;quot;&amp;gt; &amp;lt;!</description>
     </item>
     <item>
       <title>Bike</title>
-      <link>http://localhost:1313/products/bike/</link>
+      <link>http://localhost:50679/products/bike/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/products/bike/</guid>
+      <guid>http://localhost:50679/products/bike/</guid>
       <description>Nulla laboris adipisicing incididunt dolor velit mollit. Quis labore ex adipisicing minim commodo magna incididunt laborum. Sit ullamco est incididunt consectetur duis minim officia nostrud.</description>
     </item>
     <item>
       <title>Car</title>
-      <link>http://localhost:1313/products/car/</link>
+      <link>http://localhost:50679/products/car/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/products/car/</guid>
+      <guid>http://localhost:50679/products/car/</guid>
       <description>&lt;p&gt;Nulla laboris adipisicing incididunt dolor velit mollit. Quis labore ex adipisicing minim commodo magna incididunt laborum. Sit ullamco est incididunt consectetur duis minim officia nostrud. Voluptate nostrud ex reprehenderit commodo fugiat culpa nulla culpa non laborum nostrud non laboris.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Scooter</title>
-      <link>http://localhost:1313/products/scooter/</link>
+      <link>http://localhost:50679/products/scooter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/products/scooter/</guid>
+      <guid>http://localhost:50679/products/scooter/</guid>
       <description>Nulla laboris adipisicing incididunt dolor velit mollit. Quis labore ex adipisicing minim commodo magna incididunt laborum. Sit ullamco est incididunt consectetur duis minim officia nostrud.</description>
     </item>
     <item>
       <title>Truck</title>
-      <link>http://localhost:1313/products/truck/</link>
+      <link>http://localhost:50679/products/truck/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/products/truck/</guid>
+      <guid>http://localhost:50679/products/truck/</guid>
       <description>Nulla laboris adipisicing incididunt dolor velit mollit. Quis labore ex adipisicing minim commodo magna incididunt laborum. Sit ullamco est incididunt consectetur duis minim officia nostrud.</description>
     </item>
   </channel>
