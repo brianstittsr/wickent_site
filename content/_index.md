@@ -6,4 +6,3 @@ menu: main
 weight: 10
 ---
 
-   {{ partial "hero" . }}
