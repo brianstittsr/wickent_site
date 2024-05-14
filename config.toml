@@ -1,0 +1,8 @@
+baseURL = 'https://www.wickent.org'
+languageCode = 'en-us'
+title = 'Wick Enterprises'
+[params]
+  subtitle = 'Fueling the Flames For Health'
+  [params.contact]
+    email = 'thea.monet@wickent.org'
+    phone = '+1 919-6083415'
